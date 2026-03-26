@@ -3,18 +3,19 @@ public static void youDoThisPart() {
 		    Simply describe what the code is doing based on what you learned from readings and in class.
         Make one as a single line comment using the // notation.  Make the other one a multi line comment using the /* notation.
         When you're done, save this file so that it is compiled and stored in Salesforce.  */
-
+         /* SS-Declaring a variable "i" of integer data type 
+            Interger datatype could store values -2,147,483,648 to 2,147,483,647 */
 		Integer i;
 			
       //this has created the variable Integer i, but has not assigned a value because it is missing the = sign and a value as in below
-		
+		// SS-Assigning a value of 2 to the integer varaible "i"
 		i = 2;
         
 			/* 
 			code above - this is assigning the value of 2 to the "i" variable
 		 	code below - this is assigning the string variable s the value of 'My String' 
 			*/
-        
+        // SS-Creating a variable "s" of data type String and assigning the value "My String" to it
 		String s = 'My String';
 
     }
